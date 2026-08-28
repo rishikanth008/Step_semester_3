@@ -1,4 +1,4 @@
-package boolean_expressions.class_problems;
+package boolean_expressions.assigment_problems;
 
 import java.util.Scanner;
 
