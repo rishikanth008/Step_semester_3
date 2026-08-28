@@ -1,13 +1,17 @@
 # Step Semester 3
 
-## Date: 28-08-2026
+## Date: 29-08-2026
 
 **Today's Work:**
-- Initialized repository following STEP Semester 3 Version Control & Daily Workflow Standard.
-- Solved P1: Voting Eligibility Checker using boolean expressions and if/else conditions.
+- Completed Session 1 assignment problems under `basics.assigment_problems`:
+  - P1: Voting Eligibility Checker
+  - P2: Positive, Negative, or Zero Classifier
+  - P3: Print Numbers 1 to N
+  - P4: Sum of Natural Numbers Using a While Loop
+  - P5: Day Name From Number
 
 **Next Session Plan:**
-- Continue solving Session 1 class and assignment problems.
+- Continue with Session 2 problems and topics.
 
 **Issues Faced:**
 - None
