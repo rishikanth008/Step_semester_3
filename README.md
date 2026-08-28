@@ -1,6 +1,6 @@
 # Step Semester 3
 
-## Date: 29-08-2026
+## Date: 22-08-2026
 
 **Today's Work:**
 - Completed Session 1 assignment problems under `basics.assigment_problems`:
